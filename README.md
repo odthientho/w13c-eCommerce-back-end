@@ -48,7 +48,7 @@ npm start
 
 Please follow the walk-through video below.
 
-- [Walking-through video for README application](https://drive.google.com/file/d/1vbokkzuQcFB8jFuV6tNuxr-DhIAr58AM/view)
+- [Walking-through video for eCommerce Back-End application](https://drive.google.com/file/d/1oKQoC0oeZSAn54cGxOyBE0RQZFgv2uoF/view)
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at odthientho@gmail.com. You can find more of my works at [odthientho](https://github.com/odthientho/).
